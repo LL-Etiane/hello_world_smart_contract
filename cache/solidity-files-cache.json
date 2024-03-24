@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\THE EYE INFORMATIQUE\\Documents\\programming\\crypto\\helloworld\\contracts\\helloWorld.sol": {
+      "lastModificationDate": 1711291389108,
+      "contentHash": "491f282148f14ef213f90a4542c744af",
+      "sourceName": "contracts/helloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.8.24"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    }
+  }
+}
